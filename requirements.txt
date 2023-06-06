@@ -1,0 +1,11 @@
+tkinter
+pystyle
+colorama
+threading
+socket
+random
+ctypes
+time
+sys
+re
+os
