@@ -9,7 +9,7 @@
 </div>
 
 ## 📍 About
-Ddos using a simple python script by Astri Team.![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green)
+Ddos using a simple python script by Astri Team. This program will obviously slow down your connection, so its best to run it on an online shell if possible. ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) ![version](https://img.shields.io/badge/python-3.9-green)
 
 ![screen](https://github.com/CaptainBeluga/astri-ddosser/assets/87500882/4c3a8eee-ac38-47c4-a35a-a8512ce350d0)
 
