@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   Star ⭐ if you want more <br>
-  <a href="https://discord.gg/XnRjFmgPYz">Discord</a> | <a href="https://github.com/CaptainBeluga/astri-dosser#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri">Astri</a>
+  <a href="https://discord.gg/GDMVrNF8Gr">Discord</a> | <a href="https://github.com/CaptainBeluga/astri-dosser#warning-disclaimer">Disclaimer</a> | <a href="https://github.com/astros3x/Astri">Astri</a>
 </div>
 
 ## 📍 About
