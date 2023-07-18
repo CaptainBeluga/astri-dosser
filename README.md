@@ -17,7 +17,7 @@ Dos / DDos using a simple python script by Astri Team. This program will obvious
 
 
 ## :question: Support
-If you have any issues or need help join our [server](https://discord.gg/XnRjFmgPYz).
+If you have any issues or need help join our [server](https://discord.gg/GDMVrNF8Gr).
 
 ## :warning: Disclaimer
 This program is for educational purposes only and should not be used to unauthorized / illegal activities. The developer and contributors are not responsible for any misuse of this software.
